@@ -1,6 +1,6 @@
 ## PyTorch Demo Application
 
-This demo application does image classification from camera output and text classification in the [same github repo](https://github.com/pytorch/android-demo-app/tree/master/PyTorchDemoApp).
+This demo application does image classification from camera output and text classification
 
 To get device camera output it uses [Android CameraX API](https://developer.android.com/training/camerax
 ).
